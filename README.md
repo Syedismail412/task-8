@@ -30,7 +30,6 @@ A synthetic version of the Superstore dataset was generated with the following f
 
 📎 Files Included
 - `Superstore_Sales.csv` — Synthetic dataset used
-- `Sales_Insights.txt` — Written insights from the dashboard
 - `Dashboard_Screenshot.pdf` — Export of the Power BI dashboard
 - `README.md` — This file
 
